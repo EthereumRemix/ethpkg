@@ -81,7 +81,7 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
-dist/
+# dist/
 build/
 
 code-sign-key.json
