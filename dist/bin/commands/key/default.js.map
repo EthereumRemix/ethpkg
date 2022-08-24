@@ -1,0 +1,1 @@
+{"version":3,"file":"default.js","sourceRoot":"","sources":["../../../../src/bin/commands/key/default.ts"],"names":[],"mappings":";;AAEa,QAAA,WAAW,GAAG,0BAA0B,CAAA;AAExC,QAAA,KAAK,GAAG,gBAAgB,CAAA;AAExB,QAAA,WAAW,GAA2B;IACjD;QACE,IAAI,EAAE,KAAK;QACX,KAAK,EAAE,+BAA+B;KACvC;IACD;QACE,IAAI,EAAE,MAAM;QACZ,KAAK,EAAE,sBAAsB;KAC9B;CACF,CAAC"}

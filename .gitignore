@@ -81,7 +81,7 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
-dist/
+# dist/
 bundles/
 build/
 NOTES/
